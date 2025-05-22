@@ -16,8 +16,6 @@ This project implements a **Smart Semantic Search System** in Python that can ex
 - 📚 Uses modern NLP libraries like `scikit-learn`, `sentence-transformers`, `numpy`
 - 📦 Clean modular structure for reusability and scalability
 
----
-
 ## 🧠 Search Techniques Used
 
 | Technique      | When Used           | Description |
@@ -26,5 +24,4 @@ This project implements a **Smart Semantic Search System** in Python that can ex
 | TF-IDF         | 5–10 words           | Measures term frequency–inverse document frequency to assess relevance. |
 | Embedding-based| > 10 words           | Leverages transformer embeddings to find semantically similar content. |
 
---
 
